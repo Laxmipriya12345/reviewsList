@@ -1,0 +1,33 @@
+/* Write your code here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+}
+.button {
+  background: transparent;
+  border: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+  color: white;
+  font-size: 39px;
+}
+.name {
+  color: blue;
+  font-size: 39px;
+}
+.left {
+  width: 20px;
+  height: 20px;
+}
